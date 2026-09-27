@@ -1,5 +1,8 @@
 # GestureTree · 手势圣诞树
 
+![banner](banner.svg)
+
+
 > 纯前端 · 无构建 · 单文件 WebAR 手势交互应用
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
